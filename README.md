@@ -10,7 +10,7 @@ Banshees that fly, putting bugs on my scripts
 
 Cream-coloured styles and crisp programs zipped
 
-Doorbells and sleigh beels, and all tips and tricks
+Doorbells and sleigh bells, and all tips and tricks
 
 ## These are a few of my favourite things...
 

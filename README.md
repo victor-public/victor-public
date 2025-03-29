@@ -30,4 +30,4 @@ Doorbells and sleigh bells, and all tips and tricks
 
 Let sing together at &nbsp;&nbsp;<a href="https://www.linkedin.com/in/victorsantiagogonzalez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 
-<iframe src="https://github.com/sponsors/victor-public/card" title="Sponsor victor-public" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/victor-public/button" title="Sponsor victor-public" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
